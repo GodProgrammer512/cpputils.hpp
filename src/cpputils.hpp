@@ -1,6 +1,6 @@
 // Run once:
-#ifndef CPPUTILS_HPP
-#define CPPUTILS_HPP
+#ifndef _CPPUTILS_HPP_
+#define _CPPUTILS_HPP_
 
 // Importations:
 #include <stdio.h>
